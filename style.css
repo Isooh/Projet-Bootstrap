@@ -1,0 +1,57 @@
+.hero{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background: url("https://picsum.photos/1920/1080");
+    height: 80vh;
+    color: white;
+    position: relative;
+}
+
+.irou{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    gap: 40px;
+}
+
+.carte1{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin: 30px;
+
+}
+.carte1 img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+.carte2 img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+.carte2{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin: 30px;
+}
+
+.card:hover{
+    transform: scale(1.05);
+    transition: all 0.5s ease-in-out;
+}
+.mb-3{
+    margin: 30px;
+    margin: 0 auto;
+    width: 20rem;
+    
+}
+
+.bar{
+    background-color: rgba(128, 128, 128, 0.116);
+}
+
