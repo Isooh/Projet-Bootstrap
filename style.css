@@ -5,8 +5,9 @@
     align-items: center;
     background: url("https://picsum.photos/1920/1080");
     height: 80vh;
-    color: white;
+    color: red;
     position: relative;
+    
 }
 
 .irou{
